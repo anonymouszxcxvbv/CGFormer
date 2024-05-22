@@ -1,2 +1,0 @@
-dfa3D
-mmdet3d
